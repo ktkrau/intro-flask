@@ -1,4 +1,7 @@
 from flask import Flask #Importando Flask para permitirnos crear una aplicacion
+# pipenv install flask 
+# pipenv shell 
+# python3 nombre archivo.py
 
 app = Flask(__name__) #Creando una nueva instancia de la clase Flask llamada "app"
 
